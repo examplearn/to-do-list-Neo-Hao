@@ -16,7 +16,7 @@ This project is about building a classic to-do list application inspired by http
 
 Deployment:
 
-- Deployment URL: https://deployment-url.com
+- Deployment URL: https://todos-54mrfut28-neo-hao.vercel.app/
 
 Author:
 
